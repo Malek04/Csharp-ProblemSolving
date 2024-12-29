@@ -3,7 +3,7 @@
 This repository contains solutions to various C# problems I have solved. Feel free to explore, learn from the code, or contribute!
 
 ### Problem list
-0001: [Two Sum](leetcode.com/problems/two-sum/)  
+0001: [Two Sum](https://leetcode.com/problems/two-sum/)  
 0151 : [Reverse word in a String](leetcode.com/problems/reverse-words-in-a-string/)  
 0217 : [Contains duplicate](leetcode.com/problems/contains-duplicate/)  
 0242 : [Valid anagram](leetcode.com/problems/valid-anagram/)  
