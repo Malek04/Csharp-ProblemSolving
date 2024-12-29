@@ -1,4 +1,4 @@
-# C# Problem Solving Repository
+# C# Problem Solving
 
 This repository contains solutions to various C# problems I have solved. Feel free to explore, learn from the code, or contribute!
 
