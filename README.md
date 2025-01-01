@@ -12,6 +12,7 @@ This repository contains solutions to various C# problems I have solved. Feel fr
 - [0605: Can place flowers](https://leetcode.com/problems/can-place-flowers/)  
 - [1014: Best Sightseeing pair](https://leetcode.com/problems/best-sightseeing-pair/)  
 - [1071: Greatest common divisor of a string](https://leetcode.com/problems/greatest-common-divisor-of-strings/)  
+- [1422: Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string)  
 - [1431: Kids with greatest number of candy](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)  
 - [1470: Shuffle the array](https://leetcode.com/problems/shuffle-the-array/)  
 - [1476: Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)  
