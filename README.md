@@ -3,7 +3,10 @@
 This repository contains solutions to various C# problems I have solved. Feel free to explore, learn from the code, or contribute!
 
 ### Problem list
-- [0001: Two Sum](https://leetcode.com/problems/two-sum/)  
+- [0001: Two Sum](https://leetcode.com/problems/two-sum/)
+- [0004: Median of two sorted array](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+- [0066: Plus one](https://leetcode.com/problems/plus-one/)
+- [0070: Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
 - [0151: Reverse word in a String](https://leetcode.com/problems/reverse-words-in-a-string/)  
 - [0217: Contains duplicate](https://leetcode.com/problems/contains-duplicate/)  
 - [0242: Valid anagram](https://leetcode.com/problems/valid-anagram/)  
@@ -25,9 +28,11 @@ This repository contains solutions to various C# problems I have solved. Feel fr
 - [1929: Concatenation of array](https://leetcode.com/problems/concatenation-of-array/)  
 - [2011: Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)  
 - [2037: Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)  
-- [2044: Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)  
+- [2044: Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)
+- [2070:Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/)
 - [2373: Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)  
-- [2433: Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)  
+- [2433: Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)
+- [2559:Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges)
 - [2652: Sum Multiples](https://leetcode.com/problems/sum-multiples/) 
 - [2798: Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)  
 - [2942: Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)  
